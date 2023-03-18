@@ -1,4 +1,9 @@
-
+def main():
+    ##################################################
+    # Comlete your code here
+    #Comlete your code here
+    ##################################################
+    pass
 
 email = input('Enter your string ')
 
