@@ -1,7 +1,7 @@
 
 def main():
     ##################################################
-    # Comlete your code here
+    #Comlete your code here
     ##################################################
     pass
 
@@ -21,5 +21,5 @@ else:
     atidx = email.find('@')
 if email[atidx+1:].find('.') == -1:
     flag = False
-
 print (flag)
+
