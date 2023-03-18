@@ -2,8 +2,6 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-    email = input('Enter your string ')
-  
     email = input("Enter your email address: ")
     flag = True 
 
