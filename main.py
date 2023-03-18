@@ -6,6 +6,7 @@ def main():
     pass
 
 
+
 email = input('Enter your string ')
 
 flag = True
@@ -22,6 +23,3 @@ if email[atidx+1:].find('.') == -1:
     flag = False
 
 print (flag)
-
-if __name__ == '__main__':
-    main() 
