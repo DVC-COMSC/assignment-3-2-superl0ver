@@ -24,4 +24,4 @@ if email[atidx+1:].find('.') == -1:
 print (flag)
 
 if __name__ == '__main__':
-    main()
+    main() 
